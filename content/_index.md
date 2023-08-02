@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: In-Process Psychotherapy
       image:
         filename: hero-academic.png
       cta:
@@ -32,9 +32,11 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+        video:
+      # Name of video in `assets/media/`.
+          filename: intro.mp4
+      # Post-processing: flip the video horizontally?
+          flip: false
   - block: about.biography
     id: about
     content:
