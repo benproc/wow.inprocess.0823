@@ -6,11 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme: strawberry dark
+  day_night: false
   font: minimal
   font_size: L
-
+  
 # SEO
 
 marketing:
