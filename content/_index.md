@@ -9,7 +9,7 @@ sections:
     content:
       title: In-Process Psychotherapy
       image:
-        filename: hero-academic.png
+        filename: logo.png
       cta:
         label: '**Get Started**'
         url: https://wowchemy.com/templates/
