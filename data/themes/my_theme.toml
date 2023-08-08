@@ -1,0 +1,29 @@
+# The name of your theme
+name = "My Theme"
+
+# Light theme
+[light]
+	# Your brand color (used for buttons etc.)
+	primary = "blue"
+	
+	# Link color
+	link = "blue"
+	link_hover = "navy"
+	
+	# Menu colors
+	menu_primary = "#fff" # Menu background
+	menu_text = "#000" # Menu text color
+	menu_text_active = "#000" # Menu active link color
+	menu_title = "#000" # Menu title color
+	
+	# Default odd and even widget page section background colors
+	home_section_odd = "rgb(255, 255, 255)"
+	home_section_even = "rgb(255, 255, 255)"
+
+# Dark theme
+# Supports all color options above.
+# Note that Bootstrap only currently supports one `primary` color across both light and dark modes.
+[dark]
+  # Link colors
+  link = "skyblue"
+  link_hover = "white"

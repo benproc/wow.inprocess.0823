@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme: Strawberry Dark
+  theme: My Theme
   day_night: false
   font: minimal
   font_size: L
