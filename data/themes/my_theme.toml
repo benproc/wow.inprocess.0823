@@ -31,7 +31,7 @@ name = "my_theme"
   
   # Home sections
   home_section_odd = "#08E8DE"
-  home_section_even = "#073A50"
+  home_section_even = "#0E182E"
 
   link = "#aaacad"
   link_hover = "#d9dbdb"
