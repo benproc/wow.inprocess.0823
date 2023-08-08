@@ -30,7 +30,7 @@ name = "my_theme"
   background = "#1C2945"
   
   # Home sections
-  home_section_odd = "#0E182E"
+  home_section_odd = "#124D68"
   home_section_even = "#073A50"
 
   link = "#aaacad"
