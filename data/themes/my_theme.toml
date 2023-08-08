@@ -15,8 +15,8 @@ name = "my_theme"
   home_section_odd = "fff"
   home_section_even = "#F8F5F2"
   
-  link = "#ad5d07"
-  link_hover = "#264A33"
+  link = "#aaacad"
+  link_hover = "#d9dbdb"
 
 [dark]
   # Primary
@@ -33,5 +33,5 @@ name = "my_theme"
   home_section_odd = "#08E8DE"
   home_section_even = "#073A50"
 
-  link = "#F3B26D"
-  link_hover = "#377DE8"
+  link = "#aaacad"
+  link_hover = "#d9dbdb"
