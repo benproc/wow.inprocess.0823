@@ -3,10 +3,10 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#bf874b"
+  primary = "#08E8DE"
 
   # Menu
-  menu_primary = "#264A33"
+  menu_primary = "#073A50"
   menu_text = "#fff"
   menu_text_active = "#bf874b"
   menu_title = "#bf874b"
@@ -30,8 +30,8 @@ name = "my_theme"
   background = "#1C2945"
   
   # Home sections
-  home_section_odd = "#1C2945"
-  home_section_even = "#0E182E"
+  home_section_odd = "#08E8DE"
+  home_section_even = "#073A50"
 
   link = "#F3B26D"
   link_hover = "#377DE8"
