@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme: My Theme
-  day_night: false
+  theme_day: 
+  theme_night: Strawberry Dark
   font: minimal
   font_size: L
   
