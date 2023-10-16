@@ -279,5 +279,4 @@ sections:
           captcha: true
     design:
       columns: '2'
-
 ---
