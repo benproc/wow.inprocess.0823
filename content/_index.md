@@ -11,8 +11,8 @@ sections:
       image:
         filename: logo.png
       cta:
-        label: '**Get Started**'
-        url: https://wowchemy.com/templates/
+        label: '**Schedule and Appointment**'
+        url: '#conact'
         style: primary
         #q: how do I change the color of this?
       cta_alt:
