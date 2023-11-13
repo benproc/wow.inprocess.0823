@@ -11,7 +11,7 @@ sections:
       image:
         filename: logo.png
       cta:
-        label: '**Schedule and Appointment**'
+        label: '**Schedule an Appointment**'
         url: '#conact'
         style: primary
         #q: how do I change the color of this?
@@ -34,6 +34,17 @@ sections:
           filename: intro.mp4
       # Post-processing: flip the video horizontally?
           flip: false
+
+  - block: markdown
+    content:
+      title: My title
+      subtitle: My subtitle
+      text: Here is text about Psychotherapy
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+
   - block: about.biography
     id: about
     content:
