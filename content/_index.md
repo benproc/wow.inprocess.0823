@@ -45,7 +45,7 @@ sections:
       
       <p style="text-align: center;">Sometimes there isn’t anything clear. We’re not feeling alive, we’re unhappy, purposeless, lonely, or frightened.
       
-      <p style="text-align: center;">Seeking help is an expression of hope for something better. Shifting our energy  toward change is important.</p>'
+      <p style="text-align: center;">Seeking help is an expression of hope for something better.</p>'
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
