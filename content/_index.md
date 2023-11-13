@@ -12,7 +12,7 @@ sections:
         filename: logo.png
       cta:
         label: '**Schedule an Appointment**'
-        url: '#conact'
+        url: '#contact'
         style: primary
         #q: how do I change the color of this?
       cta_alt:
@@ -22,9 +22,9 @@ sections:
         label: >-
           <p style="text-align: center;">
       
-          <p style="text-align: center;">Psychotherapy is a journey. We begin to look carefully and honestly at ourselves. 
+          <p style="text-align: left;">Psychotherapy is a journey. We begin to look carefully and honestly at ourselves. 
           
-          <p style="text-align: center;">In time, feelings surface and are freed. We change.</p>
+          <p style="text-align: left;">In time, feelings surface and are freed. We change.</p>
       text: |-
         Offering Counselling and Psychotherapy in Abingdon, Oxford and Online.
 
