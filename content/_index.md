@@ -20,7 +20,7 @@ sections:
         url: '#contact'
       cta_note:
         label: >-
-          here is some plain old text
+          <p style="text-align: center;">Text_content</p>
       text: |-
         Offering Counselling and Psychotherapy in Abingdon, Oxford and Online.
 
@@ -39,7 +39,7 @@ sections:
     content:
       title: My title
       subtitle: My subtitle
-      text: Here is text about Psychotherapy
+      text: '<p style="text-align: center;">Text_content</p>'
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
