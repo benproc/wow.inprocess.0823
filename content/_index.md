@@ -20,9 +20,11 @@ sections:
         url: '#contact'
       cta_note:
         label: >-
-          <p style="text-align: center;">TPsychotherapy is a journey. We begin to look carefully and honestly at ourselves. 
+          <p style="text-align: center;">
+      
+          <p style="text-align: center;">Psychotherapy is a journey. We begin to look carefully and honestly at ourselves. 
           
-          In time, feelings surface and are freed. We change.</p>
+          <p style="text-align: center;">In time, feelings surface and are freed. We change.</p>
       text: |-
         Offering Counselling and Psychotherapy in Abingdon, Oxford and Online.
 
@@ -43,9 +45,9 @@ sections:
       subtitle: My subtitle
       text: '<p style="text-align: center;">We come to therapy when something is too painful to bear. A crisis: loss, death, a failing relationship, trauma.
       
-      Sometimes there isn’t anything clear. We’re not feeling alive, we’re unhappy, purposeless, lonely, or frightened.
+      <p style="text-align: center;">Sometimes there isn’t anything clear. We’re not feeling alive, we’re unhappy, purposeless, lonely, or frightened.
       
-      Seeking help is an expression of hope for something better. Shifting our energy  toward change is important.</p>'
+      <p style="text-align: center;">Seeking help is an expression of hope for something better. Shifting our energy  toward change is important.</p>'
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
