@@ -20,8 +20,7 @@ sections:
         url: '#contact'
       cta_note:
         label: >-
-          <p style="text-align: center;">'
-          '
+          <p style="text-align: center;">
       
           <p style="text-align: left;">Psychotherapy is a journey. We begin to look carefully and honestly at ourselves. In time, feelings surface and are freed. We change.</p>
       text: |-
