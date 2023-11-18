@@ -27,8 +27,9 @@ bio: UKCP Accredited Psychotherapist working in Abingdon, Oxford and Online.
 # Interests to show in About widget
 interests:
   - Relational Mindfulness
-  - Computational Linguistics
-  - Information Retrieval
+  - Depression and Anxiety
+  - Trauma
+  - Addiction
 
 # Education to show in About widget
 education:
