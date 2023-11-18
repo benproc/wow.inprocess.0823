@@ -24,7 +24,7 @@ sections:
       
           <p style="text-align: left;">Psychotherapy is a journey. We begin to look carefully and honestly at ourselves. In time, feelings surface and are freed. We change.</p>
       text: |-
-        Offering Counselling and Psychotherapy in Abingdon, Oxford and Online.
+        Offering Professional Counselling and Psychotherapy in Abingdon, Oxford and Online.
 
 
 
