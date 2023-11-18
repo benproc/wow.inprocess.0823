@@ -56,18 +56,18 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: facebook
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.facebook.com/inprocesspsych
     display:
       header: true
   - icon: google
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.google.com/maps/place/In-Process+Psychotherapy/@51.6702348,-1.2856158,17z/data=!3m1!4b1!4m6!3m5!1s0x4876b9da7ade973f:0xf37a3c08eced60cf!8m2!3d51.6702348!4d-1.2856158!16s%2Fg%2F11j13pg96z?entry=ttu
   - icon: location-dot
     icon_pack: fas
     link: https://www.google.com/maps/place/In-Process+Psychotherapy/@51.6702348,-1.2856158,17z/data=!3m1!4b1!4m6!3m5!1s0x4876b9da7ade973f:0xf37a3c08eced60cf!8m2!3d51.6702348!4d-1.2856158!16s%2Fg%2F11j13pg96z?entry=ttu
   - icon: yelp
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.yell.com/biz/in-process-psychotherapy-abingdon-9887804/
   - icon: building
     icon_pack: fas
