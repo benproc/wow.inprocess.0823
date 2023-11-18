@@ -3,8 +3,8 @@
 title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Ben
+last_name: Hill
 
 # Status emoji
 status:
@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MA, UKCP Accred, NCPS Accred
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: UKCP Accredited Psychotherapist working in Abingdon, Oxford and Online.
 
 # Interests to show in About widget
 interests:
@@ -80,5 +80,21 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my private psychotherapy practice! Here I offer depth psychotherapy in Abingdon, Oxford and online.
+
+I offer a warm, supportive space into which you can bring your whole self. Together, we can explore what is difficult and grow through compassion and challenge. 
+
+I began this work in 2016 and draw on over 10 years personal experience of helping people in difficulty, my own journey through therapy, and my experience of practising and teaching meditation. 
+
+I am accredited by the UK Counsel of Psychotherapists and the National Counselling & Psychotherapy Society. I and hold a master’s degree in Mindfulness Based Core Process Psychotherapy.
+
+I am helped in my work by a senior supervising psychotherapist, and by the clinical team at the Karuna Institute.
+
+I carry full professional indemnity insurance and as part of following data protection law I am registered with the Information Commissioner’s Office.
+
+I have also had an engaging career in technology where I’ve mentored teams and provided technical expertise across various sectors, including commerce, finance, education, and charity.
+
+Since the beginning of my practice, it's been my privileged to see people grow, heal and become more alive. To ask a question or arrange a free introductory meeting, please get in touch.
+
+
 {style="text-align: justify;"}
