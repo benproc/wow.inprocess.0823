@@ -55,27 +55,32 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+  - icon: facebook
+    icon_pack: fas
+    link: https://www.facebook.com/inprocesspsych
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.google.com/maps/place/In-Process+Psychotherapy/@51.6702348,-1.2856158,17z/data=!3m1!4b1!4m6!3m5!1s0x4876b9da7ade973f:0xf37a3c08eced60cf!8m2!3d51.6702348!4d-1.2856158!16s%2Fg%2F11j13pg96z?entry=ttu
+  - icon: location-dot
+    icon_pack: fas
+    link: https://www.google.com/maps/place/In-Process+Psychotherapy/@51.6702348,-1.2856158,17z/data=!3m1!4b1!4m6!3m5!1s0x4876b9da7ade973f:0xf37a3c08eced60cf!8m2!3d51.6702348!4d-1.2856158!16s%2Fg%2F11j13pg96z?entry=ttu
+  - icon: yelp
+    icon_pack: fas
+    link: https://www.yell.com/biz/in-process-psychotherapy-abingdon-9887804/
+  - icon: building
+    icon_pack: fas
+    link: https://www.abingdon.gov.uk/venues-locations/process-psychotherapy
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+ # - icon: cv
+  #  icon_pack: ai
+   # link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
