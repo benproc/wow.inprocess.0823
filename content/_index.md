@@ -59,7 +59,7 @@ sections:
       username: admin
   - block: features
     content:
-      title: Skills
+      title: Specialisms
       items:
         - name: R
           description: 90%
