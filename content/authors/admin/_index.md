@@ -25,8 +25,8 @@ organizations:
 bio: UKCP Accredited Psychotherapist working in Abingdon, Oxford and Online.
 
 # Interests to show in About widget
-ares of interest:
-  - Artificial Intelligence
+interests:
+  - Relational Mindfulness
   - Computational Linguistics
   - Information Retrieval
 
