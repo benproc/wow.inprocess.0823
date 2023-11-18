@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Ben Hill
 
 # Full name (for SEO)
 first_name: Ben
@@ -35,11 +35,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MA in Mindfullness based Core Process Psychotherapy
+    - course: MA in Mindfulness Based Core Process Psychotherapy
       institution: Karuna Institure / Middlsex University
       
     - course: Profressional Accreditation
-      institution: UK Counsel of Psychotherapists
+      institution: UK Council of Psychotherapists
     
     - course: Buddhism and Modern Psychology
       institution: Princeton Online
@@ -90,7 +90,7 @@ I offer a warm, supportive space into which you can bring your whole self. Toget
 
 I began this work in 2016 and draw on over 10 years personal experience of helping people in difficulty, my own journey through therapy, and my experience of practising and teaching meditation. 
 
-I am accredited by the UK Counsel of Psychotherapists and the National Counselling & Psychotherapy Society. I and hold a master’s degree in Mindfulness Based Core Process Psychotherapy.
+I am accredited by the UK Counsel of Psychotherapists and the National Counselling & Psychotherapy Society. I hold a master’s degree in Mindfulness Based Core Process Psychotherapy.
 
 I am helped in my work by a senior supervising psychotherapist, and by the clinical team at the Karuna Institute.
 
