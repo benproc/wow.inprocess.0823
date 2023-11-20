@@ -5,6 +5,14 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: logos
+    content:
+      title: Section Title
+      subtitle: Section Subtitle
+      # Path to the logo images within the `assets/media/` folder
+      logo_folder: logos
+    design:
+      columns: '1'
   - block: hero
     content:
       title: In-Process Psychotherapy
@@ -57,14 +65,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: logos
-    content:
-      title: Section Title
-      subtitle: Section Subtitle
-      # Path to the logo images within the `assets/media/` folder
-      logo_folder: logos
-    design:
-      columns: '1'  
   - block: features
     content:
       title: Specialisms
