@@ -39,8 +39,8 @@ sections:
 
   - block: markdown
     content:
-      title: My title
-      subtitle: My subtitle
+      title: Welcome
+      subtitle: 
       text: '<p style="text-align: center;">We come to therapy when something is too painful to bear. A crisis: loss, death, a failing relationship, trauma.
       
       <p style="text-align: center;">Sometimes there isn’t anything clear. We’re not feeling alive, we’re unhappy, purposeless, lonely, or frightened.
@@ -57,6 +57,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: logos
+    content:
+      title: Section Title
+      subtitle: Section Subtitle
+      # Path to the logo images within the `assets/media/` folder
+      logo_folder: logos
+    design:
+      columns: '1'  
   - block: features
     content:
       title: Specialisms
