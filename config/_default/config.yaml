@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: In-Process Psychotherapy Abingdon Oxofrd Online # Website name
+title: In-Process Psychotherapy Abingdon Oxford Online # Website name
 baseURL: 'https://inprocess.org.uk/' # Website URL
 
 ############################
