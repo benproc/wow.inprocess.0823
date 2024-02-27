@@ -5,14 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: logos
-    content:
-      title: Section Title
-      subtitle: Section Subtitle
-      # Path to the logo images within the `assets/media/` folder
-      logo_folder: logos
-    design:
-      columns: '1'
+
   - block: hero
     content:
       title: In-Process Psychotherapy
@@ -81,6 +74,16 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+
+  - block: logos
+    content:
+      title: Supported and Regulated By
+      subtitle: Section Subtitle
+      # Path to the logo images within the `assets/media/` folder
+      logo_folder: logos
+    design:
+      columns: '1'
+
   - block: experience
     content:
       title: Experience
