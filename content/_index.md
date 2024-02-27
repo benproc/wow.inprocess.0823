@@ -25,7 +25,7 @@ sections:
       
           <p style="text-align: left;">Psychotherapy is a journey. We begin to look carefully and honestly at ourselves. In time, feelings surface and are freed. We change.</p>
       text: |-
-        Offering Professional Counselling and Psychotherapy in Abingdon, Oxford and Online.
+        Offering Professional Counselling and Psychotherapy in Abingdon, Oxford, and Online.
 
 
 
@@ -223,11 +223,16 @@ sections:
           image_filename: testimonials/clientd.png
           link: 
           text: I found the experience of being really listened to by someone who I trusted and could rely upon transformed my relationship to some of the things that had happened in my past.
-        - name: Bob
-          username: '@bob'
-          image_filename: tweets/GitHub.png
-          link: https://wowchemy.com
-          text: Love it!
+        - name: Client F
+          username: Academic
+          image_filename: testimonials/clientf.png
+          link: 
+          text: Ben always seems calm, attentive and purposeful. In each session we unravel a little bit more, taking out the knots in the things I'm stuck with.
+        - name: Client B
+          username: Local Authority Manager
+          image_filename: testimonials/clientb.png
+          link: 
+          text: I feel like I've become interested in myself again - feel like I have as much right to be here as anyone else. Taking an hour a week to pay attention to what's actually going on for me has been transforming.
   - block: collection
     id: featured
     content:
