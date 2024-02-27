@@ -217,12 +217,12 @@ sections:
       title: Testimonials
       subtitle: What our customers have to say about us
       items:
-        - name: Geo
-          username: '@geo'
+        - name: Client D
+          username: Student
           # Image path relative to assets/media/ folder
-          image_filename: tweets/GitHub.png
-          link: https://wowchemy.com
-          text: Awesome!
+          image_filename: testimonials/clientB.jpeg
+          link: 
+          text: I found the experience of being really listened to by someone who I trusted and could rely upon transformed my relationship to some of the things that had happened in my past.
         - name: Bob
           username: '@bob'
           image_filename: tweets/GitHub.png
