@@ -220,7 +220,7 @@ sections:
         - name: Client D
           username: Student
           # Image path relative to assets/media/ folder
-          image_filename: testimonials/clientB
+          image_filename: testimonials/clientd
           link: 
           text: I found the experience of being really listened to by someone who I trusted and could rely upon transformed my relationship to some of the things that had happened in my past.
         - name: Bob
