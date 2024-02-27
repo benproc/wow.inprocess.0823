@@ -55,7 +55,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
@@ -78,7 +78,7 @@ sections:
   - block: logos
     content:
       title: Supported and Regulated By
-      subtitle: Section Subtitle
+      subtitle:
       # Path to the logo images within the `assets/media/` folder
       logo_folder: logos
     design:
@@ -212,14 +212,22 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
+  - block: testimonials
     content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+      title: Testimonials
+      subtitle: What our customers have to say about us
+      items:
+        - name: Geo
+          username: '@geo'
+          # Image path relative to assets/media/ folder
+          image_filename: tweets/GitHub.png
+          link: https://wowchemy.com
+          text: Awesome!
+        - name: Bob
+          username: '@bob'
+          image_filename: tweets/GitHub.png
+          link: https://wowchemy.com
+          text: Love it!
   - block: collection
     id: featured
     content:
