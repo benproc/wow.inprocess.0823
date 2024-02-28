@@ -1,4 +1,7 @@
 ---
+
+type: book
+
 title: Questions About Therapy?
 subtitle: Everyone’s experience of therapy is different, but you can expect a safe, warm space and kind encouragement as your process unfolds. Here you'll find answers to some common questions about therapy.
 
