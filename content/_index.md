@@ -58,22 +58,7 @@ sections:
       title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Specialisms
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+
 
   - block: logos
     content:
@@ -86,17 +71,17 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Find Out More
+      title: Our Work Together
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         folders:
           - post
         author: ""
-        category: ""
+        category: "ourwork"
         tag: ""
         exclude_featured: false
         exclude_future: false
@@ -108,7 +93,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: masonry
       columns: '2'
 
   - block: collection
@@ -124,7 +109,7 @@ sections:
         folders:
           - post
         author: ""
-        category: ""
+        category: "questions"
         tag: ""
         exclude_featured: false
         exclude_future: false
