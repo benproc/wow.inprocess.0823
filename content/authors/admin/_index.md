@@ -75,8 +75,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/company/34719485
-  - icon: fa-registered
-    icon_pack: fab
+  - icon: registered
+    icon_pack: faa
     link: https://www.psychotherapy.org.uk/therapist/Benjamin-Hill-x86nxAAA
 
     
