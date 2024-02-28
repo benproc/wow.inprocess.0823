@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Questions About Therapy?
+subtitle: Everyone’s experience of therapy is different, but you can expect a safe, warm space and kind encouragement as your process unfolds. Here you'll find answers to some common questions about therapy.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Everyone’s experience of therapy is different, but you can expect a safe, warm space and kind encouragement as your process unfolds. Here you'll find answers to some common questions about therapy.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: 
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: 
 
 # Is this an unpublished draft?
 draft: false
