@@ -30,21 +30,16 @@ image:
 
 authors:
   - admin
-  - 吳恩達
+  
 
 tags:
-  - Academic
-  - 开源
+  - Questions
 
 categories:
-  - Demo
-  - 教程
+
 ---
 
-```python
-import libr
-print('hello')
-```
+{{< relref “docs.md” >}}
 
 ## Overview
 
