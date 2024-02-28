@@ -56,7 +56,7 @@ To support you in this exploration I will endeavour to provide a safe, warm spac
 
 This work tends to be longer term, as it seeks to address deeply rooted tendencies and patterns and bring about lasting transformation.
 
-> Know the wolves that hunt you. In time, they will be the dogs that bring your slippers. Kae Tempest.
+> Know the wolves that hunt you. In time, they will be the dogs that bring your slippers - Kae Tempest
 
 ## 🧑 Who can come?
 Anyone over 18 is welcome, regardless of race, creed, religion or lack of religion, sexuality, sex, gender, age, history of offending or any other identifier.
