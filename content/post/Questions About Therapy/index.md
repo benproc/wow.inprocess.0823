@@ -53,59 +53,61 @@ To support you in this exploration I will endeavour to provide a safe, warm spac
 
 This work tends to be longer term, as it seeks to address deeply rooted tendencies and patterns and bring about lasting transformation.
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+## Who can come?
+Anyone over 18 is welcome, regardless of race, creed, religion or lack of religion, sexuality, sex, gender, age, history of offending or any other identifier.
 
-## Get Started
+It may be that I decide we’re not suited to working together, but in that case I will always try to refer you to someone more suitable.
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+## What's the evidence that this will help?
+Everyone’s journey through the therapeutic process is unique, and research in this area is challenging, however, there is good evidence showing that psychotherapy is effective in helping people.
 
-## Crowd-funded open-source software
+In 2006 Professor Allan Abbass of Dalhousie University published the results of a meta analysis incorporating 26 studies in the prestigious Chochrane Library, showing that even psychotherapy lasting under a year could bring significant benefit. He found that the effect size was a high .97. This compares to a typical effect size of .68 for CBT and .31 for common medications. Importantly, after looking at the results of follow up assessments, he noted that these improvements seemed to be lasting.
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+[**Source**](https://pubmed.ncbi.nlm.nih.gov/17054212/)
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
+ A study of people suffering Depression conducted by the NHS found that people who received psychotherapy showed much better rates of recovery compared to normal NHS treatments (typically medication or Cognitive Behavioural Therapy)
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
+ [**Source**](https://tavistockandportman.nhs.uk/research/research-projects/tavistock-adult-depression-study/)
 
-## Ecosystem
 
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+## How long does this therapy last?
 
-## Inspiration
+Therapy is open ended. If we agree to work together we begin with a six week period after which we review the experience.
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
+You can end the work whenever you feel ready, although I ask that you give me 4 weeks notice.
 
-## Features
+People commonly come for between 6 and 24 months.
 
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
 
-## Themes
+## Schedule
 
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+Sessions are weekly at a regular time and place. They last 50 minutes.
 
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
+## The first meeting
 
-## License
+The first session provides you with a chance to talk with me about what brings you to therapy
+and to see if you would like to work together. We will discuss your problem, practicalities (session
+times, etc.) and address any questions that you have.
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+This session is offered at no cost and lasts between 30 and 50 minutes.
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+## What kind of therapy is offered?
+
+My training is in [Core Process Psychotherapy](https://www.goodtherapy.org/learn-about-therapy/types/core-process-psychotherapy), which draws on western psychotheraputic theory and Buddhist psychology.
+
+It is an approach which tries to do justice to the whole person including mind, body and spirit. It recognises the self-healing capacities of the client and works towards an authentic meeting of equals in the therapy relationship.
+
+
+## Costs and payment
+
+Sessions are £65, payable 24hrs in advance.
+
+I offer a reduced rate of £60 for online sessions and also hold some space for those on lower incomes – please enquire if your circumstances mean it is difficult for you to pay the usual price.
+
+Payment is made by bank transfer but if you prefer you can bring cash to the sessions.
+
+## Contract and Commitment
+
+We will agree a contract that describes our mutual commitments, including confidentiality and how we deal with breaks and absences.
+
+You can read an example contract [here](https://inprocesspsychotherapy-my.sharepoint.com/:b:/g/personal/ben_hill_inprocess_org_uk/EZXTZFo7O9hFmNO9ojav6MEB3K2FNPNP2xlFuGExJvVisg?e=nHA2yK)
