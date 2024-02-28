@@ -38,7 +38,7 @@ authors:
 tags:
   - questions
 
-categories:
+categories: questions
 
 ---
 
