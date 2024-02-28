@@ -24,8 +24,8 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ''
-  placement: 2
+  focal_point: "Center"
+  placement: 3
   preview_only: false
 
 authors:
