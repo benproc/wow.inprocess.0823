@@ -116,3 +116,6 @@ Payment is made by bank transfer but if you prefer you can bring cash to the ses
 We will agree a contract that describes our mutual commitments, including confidentiality and how we deal with breaks and absences.
 
 You can read an example contract [here](https://inprocesspsychotherapy-my.sharepoint.com/:b:/g/personal/ben_hill_inprocess_org_uk/EZXTZFo7O9hFmNO9ojav6MEBmnvQzmhkzJh_b5-7CYjhcg?e=CMLgVE)
+
+## Something Else?
+If your question isn't answered here, please {{< cta cta_text="ask" cta_link="/#contact" cta_new_tab="false" >}}
