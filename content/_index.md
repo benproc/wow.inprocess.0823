@@ -159,18 +159,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Abingdon Natural Health and Theraphy Centre
-          company: GenCoin
+          company: Abingdon
           company_url: 'https://abingdonnaturalhealth.co.uk/'
-          company_logo: 
-          location: California
-          date_start: '2021-01-01'
+          company_logo: abnathealth
+          location: ''
+          date_start: ''
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              The Centre brings together a range of experienced and dedicated therapists qualified in Psychotherapy, Counselling, Natural Health, Holistic and Complementary Therapies.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
