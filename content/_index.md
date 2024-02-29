@@ -240,12 +240,10 @@ sections:
           icon_pack: fas
           name: Abingdon Natural Health and Therapy Centre
           link: 'https://maps.app.goo.gl/74RhKA9JK2uUEDxj7'
-      contact_links:
         - icon: location-dot
           icon_pack: fas
           name: Restore, Manzil Way, Oxford
           link: 'https://maps.app.goo.gl/V4QRNeoeiY2uutPf6'
-      contact_links:
         - icon: location-dot
           icon_pack: fas
           name: St Ethelwold’s House, Abingdon
