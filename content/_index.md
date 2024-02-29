@@ -166,7 +166,7 @@ sections:
           #date_start: '2021-01-01'
           #date_end: ''
           description: |2-
-            The Centre brings together a range of experienced and dedicated therapists qualified in Psychotherapy, Counselling, Natural Health, Holistic and Complementary Therapies.
+          The Centre brings together a range of experienced and dedicated therapists qualified in Psychotherapy, Counselling, Natural Health, Holistic and Complementary Therapies.
 
         - title: Professor of Semiconductor Physics
           company: University X
