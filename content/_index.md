@@ -148,7 +148,7 @@ sections:
 
   - block: experience
     content:
-      title: Experience
+      title: Working in Association With
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -164,17 +164,25 @@ sections:
           company_logo: abnathealth
           location: Abingdon
           date_start: '2016-01-01'
-          date_end: '2016-01-01'
+          date_end: ''
           description: |2-
               The Centre brings together a range of experienced and dedicated therapists qualified in Psychotherapy, Counselling, Natural Health, Holistic and Complementary Therapies.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
+        - title: Oxford Men's Counselling Service
+          company: OMCS
+          company_url: 'http://www.omcs.org.uk/'
+          company_logo: omcs
+          location: Oxford
           date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_end: ''
+          description: Committed to providing a professional counselling service in a supportive environment where men can explore issues relevant to them 
+          - title: St Ethelwolds House
+          company: OMCS
+          company_url: 'https://ethelwoldhouse.com/'
+          company_logo: steths
+          location: Abingdon
+          date_start: '2016-01-01'
+          date_end: ''
+          description: St Ethelwold’s House is a welcoming spiritual centre offering a place of sanctuary and quiet to all people who are open to a deeper meaning in their lives. 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
