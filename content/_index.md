@@ -163,8 +163,8 @@ sections:
           company_url: 'https://abingdonnaturalhealth.co.uk/'
           company_logo: abnathealth
           location: Abingdon
-          date_start: ''
-          date_end: ''
+          date_start: '2016-01-01'
+          date_end: '2016-01-01'
           description: |2-
               The Centre brings together a range of experienced and dedicated therapists qualified in Psychotherapy, Counselling, Natural Health, Holistic and Complementary Therapies.
         - title: Professor of Semiconductor Physics
