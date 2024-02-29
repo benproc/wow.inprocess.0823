@@ -1,6 +1,6 @@
 ---
-title: Mindfulness
-summary: We can take some valuable time to notice what is happening in your thoughts and feelings
+title: Relationships
+summary: How we relate to people is central to our experience of the world.
 
 
 # Optional external URL for project (replaces project detail page).
