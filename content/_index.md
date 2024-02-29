@@ -7,6 +7,7 @@ type: landing
 sections:
 
   - block: hero
+    id: home
     content:
       title: In-Process Psychotherapy
       image:
@@ -70,7 +71,7 @@ sections:
       columns: '1'
   
   - block: collection
-    id: posts
+    id: info
     content:
       title: Find Out More
       subtitle: ''
