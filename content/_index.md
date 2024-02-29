@@ -229,9 +229,16 @@ sections:
       text: |-
         I work at a number of different sites across Oxfordshire
       # Contact (add or remove contact options as necessary)
-      email: hello@inprocess.org.uk
-      phone: 07395 876 287
+      #email: hello@inprocess.org.uk
+      #phone: 07395 876 287
       #appointment_url: 'https://calendly.com'
+      address:
+        street: 450 Serra Mall
+        city: Stanford
+        region: CA
+        postcode: '94305'
+        country: United States
+        country_code: US
       address:
         street: 450 Serra Mall
         city: Stanford
