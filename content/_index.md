@@ -253,11 +253,11 @@ sections:
       #office_hours:
        # - 'Monday 10:00 to 13:00'
         #- 'Wednesday 09:00 to 10:00'
-      #contact_links:
-      #  - icon: twitter
-      #    icon_pack: fab
-      #    name: DM Me
-      #    link: 'https://twitter.com/Twitter'
+      contact_links:
+        - icon: location-dot
+          icon_pack: fas
+          name: Abingdon Natural Health and Therapy Centre
+          link: 'https://maps.app.goo.gl/74RhKA9JK2uUEDxj7'
       #  - icon: skype
       #    icon_pack: fab
       #    name: Skype Me
