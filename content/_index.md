@@ -177,11 +177,11 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you have any questions or would like to arrange an initial meeting, please get in touch, sharing anything you feel comfortable with.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: hello@inprocess.org.uk
+      phone: 07395 876 287
+      #appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
         city: Stanford
