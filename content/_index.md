@@ -222,12 +222,12 @@ sections:
     design:
       columns: '2'
   - block: contact
-    id: contact
+    id: location
     content:
-      title: Contact
+      title: Locations
       subtitle:
       text: |-
-        If you have any questions or would like to arrange an initial meeting, please get in touch, sharing anything you feel comfortable with.
+        I work at a number of different sites across Oxfordshire
       # Contact (add or remove contact options as necessary)
       email: hello@inprocess.org.uk
       phone: 07395 876 287
