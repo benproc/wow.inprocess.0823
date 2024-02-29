@@ -225,31 +225,13 @@ sections:
     id: location
     content:
       title: Locations
-      subtitle:
+      subtitle: I work at a number of different sites across Oxfordshire
       text: |-
-        I work at a number of different sites across Oxfordshire
+        Click the links below for maps
       # Contact (add or remove contact options as necessary)
       #email: hello@inprocess.org.uk
       #phone: 07395 876 287
       #appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
        # - 'Monday 10:00 to 13:00'
         #- 'Wednesday 09:00 to 10:00'
@@ -258,6 +240,16 @@ sections:
           icon_pack: fas
           name: Abingdon Natural Health and Therapy Centre
           link: 'https://maps.app.goo.gl/74RhKA9JK2uUEDxj7'
+      contact_links:
+        - icon: location-dot
+          icon_pack: fas
+          name: Restore, Manzil Way, Oxford
+          link: 'https://maps.app.goo.gl/V4QRNeoeiY2uutPf6'
+      contact_links:
+        - icon: location-dot
+          icon_pack: fas
+          name: St Ethelwold’s House, Abingdon
+          link: 'https://maps.app.goo.gl/9trfTCvuPXQp3UZQ9'
       #  - icon: skype
       #    icon_pack: fab
       #    name: Skype Me
