@@ -159,12 +159,12 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Abingdon Natural Health and Theraphy Centre
-          #company: GenCoin
+          company: GenCoin
           company_url: 'https://abingdonnaturalhealth.co.uk/'
           company_logo: 
-          #location: California
-          #date_start: '2021-01-01'
-          #date_end: ''
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
