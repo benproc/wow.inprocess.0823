@@ -176,14 +176,14 @@ sections:
           date_end: ''
           description: Committed to providing a professional counselling service in a supportive environment where men can explore issues relevant to them 
          
-         #- title: St Ethelwolds House
-         # company: St Eths
-         # company_url: 'https://ethelwoldhouse.com/'
-         # company_logo: steths
-         # location: Abingdon
-         # date_start: '2016-01-01'
-         # date_end: ''
-         # description: St Ethelwold’s House is a welcoming spiritual centre offering a place of sanctuary and quiet to all people who are open to a deeper meaning in their lives. 
+         - title: St Ethelwolds House
+          company: St Eths
+          company_url: 'https://ethelwoldhouse.com/'
+          company_logo: steths
+          location: Abingdon
+          date_start: '2016-01-01'
+          date_end: ''
+          description: St Ethelwold’s House is a welcoming spiritual centre offering a place of sanctuary and quiet to all people who are open to a deeper meaning in their lives. 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
