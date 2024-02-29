@@ -153,7 +153,7 @@ sections:
   - block: testimonials
     content:
       title: Testimonials
-      subtitle: What our customers have to say about us
+      subtitle: How clients describe our work
       items:
         - name: Client D
           username: Student
