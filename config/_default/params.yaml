@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
+    site_type: LocalBusiness
+    local_business_type: 'MedicalBusiness'
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Psychotherapy and Counseling in Abingdon, Oxford and Online'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -46,11 +46,13 @@ header:
 footer:
   copyright:
     notice: '© {year} In-Process Psychotherapy'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    #license:
+      #enable: true
+      #allow_derivatives: false
+      #share_alike: true
+      #allow_commercial: false
+
+i_am_a_sponsor: true
 
 # Localization
 
