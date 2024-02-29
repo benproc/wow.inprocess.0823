@@ -162,7 +162,7 @@ sections:
           company: Abingdon
           company_url: 'https://abingdonnaturalhealth.co.uk/'
           company_logo: abnathealth
-          location: 
+          location: Abingdon
           date_start: ''
           date_end: ''
           description: |2-
