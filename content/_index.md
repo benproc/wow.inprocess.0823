@@ -158,7 +158,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Abingdon Natural Health and Theraphy Centre
+        - title: Abingdon Natural Health and Therapy Centre
           company: Abingdon
           company_url: 'https://abingdonnaturalhealth.co.uk/'
           company_logo: abnathealth
@@ -175,8 +175,7 @@ sections:
           date_start: '2016-01-01'
           date_end: ''
           description: Committed to providing a professional counselling service in a supportive environment where men can explore issues relevant to them 
-         
-         - title: St Ethelwolds House
+        - title: St Ethelwolds House
           company: St Eths
           company_url: 'https://ethelwoldhouse.com/'
           company_logo: steths
