@@ -39,7 +39,7 @@ sections:
           # Name of video in `assets/media/`.
           filename: intro.mp4
           # Post-processing: flip the video horizontally?
-          flip: false`
+          flip: false
 
   - block: markdown
     content:
