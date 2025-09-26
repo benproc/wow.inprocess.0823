@@ -16,12 +16,12 @@ appearance:
 marketing:
   seo:
     site_type: LocalBusiness
-    local_business_type: 'MedicalBusiness'
-    org_name: ''
+    local_business_type: 'MentalHealthCare'
+    org_name: 'In-Process Psychotherapy'
     description: 'Psychotherapy and Counselling in Abingdon, Oxford and Online'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-RG7WS9PDXF'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''  
