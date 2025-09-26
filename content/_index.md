@@ -36,12 +36,11 @@ sections:
     design:
       background:
         video:
-      # Name of video in `assets/media/`.
+          # Name of video in `assets/media/`.
           filename: intro.mp4
           title: Calming abstract video illustrating the therapeutic journey
-          
-      # Post-processing: flip the video horizontally?
-          flip: false
+          # Post-processing: flip the video horizontally?
+          flip: false`
 
   - block: markdown
     content:
