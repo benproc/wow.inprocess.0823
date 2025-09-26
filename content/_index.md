@@ -38,6 +38,8 @@ sections:
         video:
       # Name of video in `assets/media/`.
           filename: intro.mp4
+          alt_text: Calming abstract video illustrating the therapeutic journey
+          aria_label: Hero background video for In-Process Psychotherapy
       # Post-processing: flip the video horizontally?
           flip: false
 
