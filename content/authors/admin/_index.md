@@ -47,6 +47,9 @@ education:
     - course: Meditation Teacher
       institution: Samatha Trust
 
+    - course: Certified Autism Clinical Specialist
+      institution: PESI UK
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -94,21 +97,17 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my private psychotherapy practice! Here I offer depth psychotherapy in Abingdon, Oxford and online.
+Welcome to my private psychotherapy practice. I offer depth psychotherapy in Abingdon, Oxford, and online.
 
-I offer a warm, supportive space into which you can bring your whole self. Together, we can explore what is difficult and grow through compassion and challenge. 
+I provide a warm, supportive space where you can bring your whole self. Together we can explore what is difficult and grow through compassion and challenge.
 
-I began this work in 2016 and draw on over 10 years personal experience of helping people in difficulty, my own journey through therapy, and my experience of practising and teaching meditation. 
+I began this work in 2016 and draw on over 10 years’ personal experience of helping people in difficulty, my own journey through therapy, and my experience of practising and teaching meditation.
 
-I am accredited by the UK Counsel of Psychotherapists and the National Counselling & Psychotherapy Society. I hold a master’s degree in Mindfulness Based Core Process Psychotherapy.
+I am accredited by the UK Council for Psychotherapy (UKCP) and the National Counselling & Psychotherapy Society (NCPS). I hold a master’s degree in Mindfulness-Based Core Process Psychotherapy.
 
-I am helped in my work by a senior supervising psychotherapist, and by the clinical team at the Karuna Institute.
+I am supported by a senior supervising psychotherapist and by the clinical team at the Karuna Institute. I carry full professional indemnity insurance and, in line with data protection law, I am registered with the Information Commissioner’s Office.
 
-I carry full professional indemnity insurance and as part of following data protection law I am registered with the Information Commissioner’s Office.
-
-I have also had an engaging career in technology where I’ve mentored teams and provided technical expertise across various sectors, including commerce, finance, education, and charity.
-
-Since the beginning of my practice, it's been my privileged to see people grow, heal and become more alive. To ask a question or arrange a free introductory meeting, please get in touch.
+Since the beginning of my practice, it has been my privilege to witness people grow, heal, and become more alive. To ask a question or arrange a free introductory meeting, please get in touch.
 
 
 {style="text-align: justify;"}

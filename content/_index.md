@@ -26,7 +26,7 @@ sections:
       
           <p style="text-align: left;">Psychotherapy is a journey. We begin to look carefully and honestly at ourselves. In time, feelings surface and are freed. We change.</p>
       text: |-
-        Offering Professional Counselling and Psychotherapy in Abingdon, Oxford, and Online.
+        Professional counselling and psychotherapy in Abingdon, Oxford, and online.
 
 
 
@@ -43,9 +43,9 @@ sections:
     content:
       title: Welcome
       subtitle: 
-      text: '<p style="text-align: center;">We come to therapy when something is too painful to bear. A crisis: loss, death, a failing relationship, trauma.
+      text: '<p style="text-align: center;">We often come to therapy when something feels too painful to bear — a crisis such as loss, bereavement, a failing relationship, or trauma.
       
-      <p style="text-align: center;">Sometimes there isn’t anything clear. We’re not feeling alive, we’re unhappy, purposeless, lonely, or frightened.
+      <p style="text-align: center;">At other times there isn’t anything obvious: we may feel flat, unhappy, purposeless, lonely, or frightened.
       
       <p style="text-align: center;">Seeking help is an expression of hope for something better.</p>'
     design:
@@ -175,7 +175,7 @@ sections:
           date_start: '2016-01-01'
           date_end: ''
           description: Committed to providing a professional counselling service in a supportive environment where men can explore issues relevant to them 
-        - title: St Ethelwolds House
+        - title: St Ethelwold's House
           company: St Eths
           company_url: 'https://ethelwoldhouse.com/'
           company_logo: steths
