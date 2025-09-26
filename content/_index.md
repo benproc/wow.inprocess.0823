@@ -13,7 +13,7 @@ sections:
       image:
         filename: logo.png
         alt_text: In-Process Psychotherapy logo representing counselling in Abingdon and online
-        aria_label: In-Process Psychotherapy brand mark
+        
       cta:
         label: '**Schedule an Appointment**'
         url: '#contact'
@@ -38,8 +38,8 @@ sections:
         video:
       # Name of video in `assets/media/`.
           filename: intro.mp4
-          alt_text: Calming abstract video illustrating the therapeutic journey
-          aria_label: Hero background video for In-Process Psychotherapy
+          title: Calming abstract video illustrating the therapeutic journey
+          
       # Post-processing: flip the video horizontally?
           flip: false
 
