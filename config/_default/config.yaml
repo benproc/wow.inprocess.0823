@@ -10,7 +10,7 @@ baseURL: 'https://inprocess.org.uk/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en-gb
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
